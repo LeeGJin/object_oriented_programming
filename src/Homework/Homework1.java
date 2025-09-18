@@ -9,6 +9,7 @@ import java.util.Scanner;
  * 요구사항
  * - 정수 외 다른 값은 입력되지 않는다고 가정
 */
+
 public class Homework1 {
     public static void main(String[] args) {
 
